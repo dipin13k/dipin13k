@@ -136,22 +136,12 @@
   <a href="https://linkedin.com/in/dipin13k">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.gg/askjune">
+  <a href="[https://discord.gg/askjune](https://discord.gg/MYzWzbNE5k)">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
-### Direct Contact Info:
 
-| Contact | Details |
-|---------|---------|
-| 📧 **Email** | dipinkhadka130@gmail.com |
-| 📍 **Location** | Nepal 🇳🇵 |
-| 💬 **Discord** | dipin130k |
-| 🐦 **Twitter** | @dipin130k |
-| 💼 **LinkedIn** | www.linkedin.com/in/dipin130k |
-
----
 
 ## 📚 Resources & Learning
 
