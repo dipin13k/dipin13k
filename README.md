@@ -124,19 +124,19 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:dipinkhadka130@gmail.com">
+  <a href="mailto:garena746130@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/dipin13k">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/dipin13k">
+  <a href="https://x.com/dipin130k">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/dipin13k">
+  <a href="https://linkedin.com/in/dipin130k">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://discord.gg/askjune](https://discord.gg/MYzWzbNE5k)">
+  <a href="(https://discord.gg/MYzWzbNE5k)">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
