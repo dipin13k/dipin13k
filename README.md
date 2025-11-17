@@ -55,12 +55,12 @@
 ### 🌐 **Portfolio Website**
 > Modern portfolio showcasing projects and skills  
 > **Tech:** HTML, CSS, JavaScript  
-> **[🔗 Live Demo]([https://dipin13k.github.io/portfolio/](https://dipin13k.github.io/portfolio/)** | **[📂 Repository](https://github.com/dipin13k/portfolio)**
+> **[🔗 Live Demo](https://dipin13k.github.io/portfolio/)** | **[📂 Repository](https://github.com/dipin13k/portfolio)**
 
 ### 🌤️ **Weather Dashboard**
 > Real-time weather data with clean interface  
 > **Tech:** JavaScript, Weather API  
- **[🔗 Live Demo]([https://dipin13k.github.io/portfolio/](https://dipin13k.github.io/weather-site/)** | **[📂 Repository](https://github.com/dipin13k/weather-site)**
+ **[🔗 Live Demo](https://dipin13k.github.io/weather-site/)** | **[📂 Repository](https://github.com/dipin13k/weather-site)**
 
 ### 📝 **Code Snippets Manager**
 > Organize and search code snippets easily  
@@ -136,7 +136,7 @@
   <a href="https://linkedin.com/in/dipin130k">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="(https://discord.gg/MYzWzbNE5k)">
+  <a href="https://discord.gg/MYzWzbNE5k">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
